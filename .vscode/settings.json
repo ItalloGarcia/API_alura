@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/68a545cd-8313-464d-9751-a3551a2810d0/resourceGroups/GRUPO-REC-RESOLVIDO/providers/Microsoft.Web/sites/API-ITALO-RESOLVIDO",
+    "appService.deploySubpath": "."
+}
